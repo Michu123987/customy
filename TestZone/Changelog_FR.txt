@@ -1,0 +1,8 @@
+Changements pour la PreRelease 1.1 de "Test Zone".
+27/10/2022 3:44
+
+[+] Les aliens essaient maintenant de vous attraper.
+[+] Correction mineure de la position de certains objets [pneu du tunnel, petit mur près du "Casier", double rampe au coin].
+[+] Augmentation de la taille de l'échelle de l'OVNI.
+
+Plus d'infos sur le discord : https://discord.gg/jkXcExh5

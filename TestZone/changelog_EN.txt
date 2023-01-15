@@ -1,0 +1,14 @@
+Changes by harpy:
+Added snowball piles to help the map load more often and to prevent
+ccgm_minecraft map from loading too often.
+
+I don't know French so I'm sorry if you're reading that changelog lol
+
+Changelog for "Test Zone" preRelease 1.1
+27/10/2022 3:44 AM
+
+[+] Aliens now try to catch you
+[+] Minor correction of the positions of some objects [tire from tunnel, small wall near to "Casier", double ramp on corner]
+[+] UFO ladder size increased
+
+More informations on Discord : https://discord.gg/jkXcExh5

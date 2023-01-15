@@ -1,0 +1,139 @@
+newmtl ProBuilderDefault
+map_Kd GridBox_Default.png
+Kd 1 1 1
+d 1
+
+newmtl Cube_(5)_ladder_rot[390]_(1)Mat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl New_Material_11
+map_Kd 1x1_grid_quarter_lines_numbered.png
+Kd 1 0 0
+d 1
+
+newmtl Default-Material
+Kd 1 1 1
+d 1
+
+newmtl New_Material_6
+map_Kd BRICK.png
+Kd 1 1 1
+d 1
+
+newmtl New_Material_7
+map_Kd sdfsf.png
+Kd 1 1 1
+d 1
+
+newmtl New_Material_4
+map_Kd ll.png
+Kd 1 1 1
+d 1
+
+newmtl Untitled_designllj
+map_Kd Untitled design 1.png
+Kd 1 1 1
+d 1
+
+newmtl New_Material_5
+map_Kd Untitled designl.png
+Kd 1 1 1
+d 1
+
+newmtl Cube_(5)_texturedMat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl Cube_(11)_invis_(8)Mat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl tree
+Kd 1 0 0
+d 1
+
+newmtl Cube_(11)_invisMat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl New_Material_8
+Kd 0.2924528 0.2924528 0.2924528
+d 1
+
+newmtl Cube_(11)_invis_(3)Mat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl New_Material_2
+Kd 0.8018868 0.3647799 0
+d 1
+
+newmtl Cube_(5)_ladder_rot[300]_(3)Mat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl New_Material_1
+Kd 0 0 0
+d 1
+
+newmtl Cube_(5)_ladder_rot[300]_(4)Mat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl Cube_(11)_invis_(4)Mat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl Cube_(5)_ladder_rot[347]_(2)Mat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl Cube_(5)_ladder_rot[480]_(2)Mat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl New_Material_9
+Kd 0.3679245 0 0
+d 1
+
+newmtl Cube_(5)_ladder_rot[210]_invisMat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl Cube_(11)_invis_(2)Mat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl Cube_(10)Mat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl Cube_(11)_texturedMat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl Cube_(5)_ladder_rot[438]_(3)Mat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl Cube_(5)_ladder_rot[347]_(3)Mat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl Cube_(11)_invis_(7)Mat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl Cube_(11)_invis_(5)Mat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl Cube_(11)_invis_(6)Mat
+Kd 0.8 0.8 0.8
+d 1
+
+newmtl Cube_(11)_invis_(1)Mat
+Kd 0.8 0.8 0.8
+d 1
+
